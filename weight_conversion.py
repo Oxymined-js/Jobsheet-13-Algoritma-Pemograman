@@ -1,4 +1,4 @@
-def weight_conversion
+def weight_conversion():
 berat = int(input("Masukkan berat anda > "))
 satuan = int(input("Dalam satuan apa berat yang anda masukkan ? (K untuk K6, L untuj=k LSB)> "))
 
